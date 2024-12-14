@@ -60,5 +60,5 @@ The model evaluation results are saved in a CSV file named `model_results.csv`. 
 ## Files in Repository
 - `car_price_prediction.ipynb`: The main Jupyter Notebook containing the code.
 - `model_results.csv`: Results of the model evaluation.
-- `model_results.csv`: data set file
+- `Car_price_assignment.csv`: data set file
 
